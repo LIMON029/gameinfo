@@ -1,0 +1,134 @@
+[
+    {
+        "name": "오렌지",
+        "price": 28,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "블루베리",
+        "price": 23,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "라즈베리",
+        "price": 26,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "사과",
+        "price": 28,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "돌",
+        "price": 8,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "광석",
+        "price": 14,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "대나무",
+        "price": 7,
+        "location": "대나무숲",
+        "time": ""
+    },
+    {
+        "name": "목재",
+        "price": 6,
+        "location": "마을 곳곳",
+        "time": ""
+    },
+    {
+        "name": "희귀 목재",
+        "price": 50,
+        "location": "마을 곳곳 8그루",
+        "time": "2시간"
+    },
+    {
+        "name": "그자리 참나무",
+        "price": 150,
+        "location": "집 앞마당 랜덤",
+        "time": "매일 아침 6시"
+    },
+    {
+        "name": "완벽한 형광석",
+        "price": 150,
+        "location": "\"집 앞마당 랜덤",
+        "time": " 온천산\""
+    },
+    {
+        "name": "느타리버섯",
+        "price": 16,
+        "location": "온천산",
+        "time": ""
+    },
+    {
+        "name": "그물버섯",
+        "price": 16,
+        "location": "숲속 호수",
+        "time": ""
+    },
+    {
+        "name": "양송이버섯",
+        "price": 16,
+        "location": "\"보랏빛해변",
+        "time": " 풍차꽃밭"
+    },
+    {
+        "name": "표고버섯",
+        "price": 16,
+        "location": "어촌",
+        "time": ""
+    },
+    {
+        "name": "검은트러플",
+        "price": 99,
+        "location": "숲속 섬",
+        "time": "12분마다 4개 리셋"
+    },
+    {
+        "name": "이상한 느타리버섯",
+        "price": 16,
+        "location": "온천산",
+        "time": ""
+    },
+    {
+        "name": "이상한 그물버섯",
+        "price": 16,
+        "location": "숲속 호수",
+        "time": ""
+    },
+    {
+        "name": "이상한 양송이버섯",
+        "price": 16,
+        "location": "\"보랏빛해변",
+        "time": " 풍차꽃밭"
+    },
+    {
+        "name": "이상한 표고버섯",
+        "price": 16,
+        "location": "어촌",
+        "time": ""
+    },
+    {
+        "name": "핑크버블",
+        "price": "-",
+        "location": "무작위",
+        "time": "매주 토요일 아침 6시 15개"
+    },
+    {
+        "name": "성운 조각",
+        "price": "-",
+        "location": "계절마다 무작위로 3색 유성우에 떨어지는 운석",
+        "time": ""
+    }
+]
