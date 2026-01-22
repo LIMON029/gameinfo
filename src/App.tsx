@@ -456,6 +456,8 @@ const App: React.FC = () => {
       <footer className="bg-white border-t mt-12 py-6">
         <div className="w-full px-2 sm:px-4 text-center text-gray-600 text-sm">
           <p>🌈 Heartopia 도감 - 모든 정보를 한눈에</p>
+          <p>본 사이트는 팬이 만든 비공식 정보 사이트이며, 게임 내 수치 및 관련 정보의 모든 저작권은 '두근두근타운(Dudu Town)' 개발사에 있습니다. 요청이 있을 시 정보가 수정되거나 삭제될 수 있습니다.</p>
+          <p>정보 출처 : '캐러반 조' 님이 제작한 가이드 스프레드시트</p>
         </div>
       </footer>
     </div>
