@@ -96,8 +96,8 @@ export interface Tab {
 
 // 필터 타입
 export interface Filters {
-  level: string;
-  weather: string;
-  location: string;
-  shadow: string;
+  levels: number[];
+  weathers: string[];
+  locations: string[];
+  shadows: string[];
 }
