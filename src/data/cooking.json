@@ -236,15 +236,15 @@
     {
         "level": 1,
         "name": "롤케이크",
-        "obtainMethod": "\"도리스에게 구매(비",
-        "recipe": " 눈",
-        "cost": " 유성우 오는 날)\"",
-        "efficiency": "달걀+우유+임의사탕*2",
+        "obtainMethod": "도리스에게 구매(비, 눈, 유성우 오는 날)",
+        "recipe": "달걀+우유+임의사탕*2",
+        "cost": 550,
+        "efficiency": 0,
         "star1": 550,
-        "star2": 0,
-        "star3": 550,
-        "star4": 825,
-        "star5": 1100
+        "star2": 825,
+        "star3": 1100,
+        "star4": 2200,
+        "star5": 4400
     },
     {
         "level": 1,
